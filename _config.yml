@@ -1,16 +1,12 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  komatatsu:
+    image_url: https://ja.gravatar.com/userimage/130990568/39ff838e549ffa872d95381019a89b8a.png?size=200
+    name: komatatsu
+    url: https://twitter.com/k0matatsu
+author: komatatsu
+description: 田舎から配信してます
+description_long: 田舎という文字列がゲシュタルト崩壊するまで続くやつ
+email: 
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +16,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: 田舎.fm
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: 
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: 田舎.fm
+url: https://komatatsu.github.io/inaka-fm/
