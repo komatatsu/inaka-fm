@@ -1,3 +1,3 @@
-# Yattecast
+# 田舎.fm
 
-https://r7kamura.github.io/yattecast/
+https://komatatsu.github.io/inaka-fm/
