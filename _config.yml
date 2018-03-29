@@ -1,8 +1,12 @@
 actors:
   komatatsu:
-    image_url: https://ja.gravatar.com/userimage/130990568/39ff838e549ffa872d95381019a89b8a.png?size=200
+    image_url: /images/actors/alice.png
     name: komatatsu
     url: https://twitter.com/k0matatsu
+  mhidaka:
+    image_url: /images/actors/alice.png
+    name: mhidaka
+    url: https://twitter.com/mhidaka
 author: komatatsu
 description: 田舎から配信してます
 description_long: 田舎という文字列がゲシュタルト崩壊するまで続くやつ
