@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/mhidaka.jpg
     name: mhidaka
     url: https://twitter.com/mhidaka
+  laco2:
+    image_url: /images/actors/laco.jpg
+    name: laco2
+    url: https://twitter.com/laco2net
 author: komatatsu
 description: 田舎から配信してます
 description_long: 田舎でリモートワークをしているAndroidエンジニアが配信しているpodcastです。ゲスト出演してくれる人をいつだって募集中、出演したいぞ〜という人は<a href=https://twitter.com/inaka_fm>@inaka_fm</a>にメンションしてくれよな！！
