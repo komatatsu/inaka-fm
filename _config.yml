@@ -1,10 +1,10 @@
 actors:
   komatatsu:
-    image_url: https://pbs.twimg.com/profile_images/877386238839275522/GdBI6N6E_200x200.jpg
+    image_url: /images/actors/komatatsu.png
     name: komatatsu
     url: https://twitter.com/k0matatsu
   mhidaka:
-    image_url: https://pbs.twimg.com/profile_images/761384286624722944/OaJ9OeHA_200x200.jpg
+    image_url: /images/actors/mhidaka.jpg
     name: mhidaka
     url: https://twitter.com/mhidaka
 author: komatatsu
